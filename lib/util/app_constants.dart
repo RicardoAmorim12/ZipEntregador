@@ -5,7 +5,7 @@ class AppConstants {
   static const String appName = 'Zip Entregador';
   static const double appVersion = 1.6;
 
-  static const String baseUrl = 'https://fastdelivery-admin.lojadodesenvolvedor.com';
+  static const String baseUrl = 'https://painel.pedenozip.com';
   static const String configUri = '/api/v1/config';
   static const String forgerPasswordUri = '/api/v1/auth/delivery-man/forgot-password';
   static const String verifyTokenUri = '/api/v1/auth/delivery-man/verify-token';
