@@ -1,4 +1,4 @@
-package com.lojadev.fast_delivery
+package com.parceiro.zipdelivery
 
 import android.app.Activity
 import android.app.Application

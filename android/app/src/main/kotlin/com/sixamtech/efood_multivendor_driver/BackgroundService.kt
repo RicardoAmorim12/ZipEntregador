@@ -1,4 +1,4 @@
-package com.lojadev.fast_delivery
+package com.parceiro.zipdelivery
 
 import android.app.Service
 import android.content.Context
@@ -90,7 +90,7 @@ class BackgroundService : Service(), LifecycleDetector.Listener {
     }
 
     companion object {
-        private const val SHARED_PREFERENCES_NAME = "com.lojadev.fast_delivery"
+        private const val SHARED_PREFERENCES_NAME = "com.parceiro.zipdelivery"
 
         private const val KEY_CALLBACK_RAW_HANDLE = "callbackRawHandle"
 

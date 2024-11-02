@@ -1,4 +1,4 @@
-package com.lojadev.fast_delivery
+package com.parceiro.zipdelivery
 
 import android.content.Intent
 import android.os.Bundle
