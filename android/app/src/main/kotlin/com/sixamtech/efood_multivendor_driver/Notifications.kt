@@ -1,4 +1,4 @@
-package com.parceiro.zipdelivery
+package com.entregador.zipdelivery
 
 import android.app.Notification
 import android.app.NotificationChannel

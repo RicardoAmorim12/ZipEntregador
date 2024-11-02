@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1004075713570:android:b4a7d3b74bc22c201c767b",
         "android_client_info": {
-          "package_name": "com.parceiro.zipdelivery"
+          "package_name": "com.entregador.zipdelivery"
         }
       },
       "oauth_client": [],
@@ -28,7 +28,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:1004075713570:android:802e1c38eba5800a1c767b",
         "android_client_info": {
-          "package_name": "com.parceiro.zipdelivery_user"
+          "package_name": "com.entregador.zipdelivery_user"
         }
       },
       "oauth_client": [],
